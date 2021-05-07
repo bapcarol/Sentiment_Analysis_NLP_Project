@@ -1,0 +1,8 @@
+{
+    "authentication_keys": {
+        "consumerKey" : "Type Here your Consumer Key",
+        "consumerSecret" : "Type Here your Consumer Secret",
+        "accessToken" : "Type Here your Access Token",
+        "accessTokenSecret" : "Type Here your Access Token Secret"
+    }
+}
